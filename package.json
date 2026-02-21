@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-omni-flux-processor-batch-dp0",
+  "version": "1.0.0",
+  "description": "Event-driven processing engine",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "omni-flux-processor-batch-dp0"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-omni-flux-processor-batch-dp0.git"
+  }
+}
